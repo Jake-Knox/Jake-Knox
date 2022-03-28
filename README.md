@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jake-Knox
 - 👀 I’m interested in mobile, web and C# development
 - 🌱 I’m currently learning Swift, C++ and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for remote development opertunities based in Greater Manchester
 - 📫 How to reach me - https://www.linkedin.com/in/jake-knox/
 
 <!---
