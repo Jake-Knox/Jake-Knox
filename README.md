@@ -2,18 +2,20 @@ Hi, I'm Jake
 
 My projects (Ordered: most > least recent):
 
-- Website & Apache server security
+- Website & Apache server security (group project)
 - Kotlin andriod emotion and music app
 - C# Unity VR interactive museum
 - Swift iOS educational KS2 chemistry app
 - C++ traffic simulation
 - Python data visualisation
 - C# Unity escape room
+- HTML, CSS, JS, PHP & mySQL land asessment service for a brownfield land development company (group project)
 - Kotlin android educational KS2 chemistry app
 - C++ data visualisation
 - PHP, mySQL & JS messenger website
 - HTML, CSS & PHP forum website
 - Java education KS1 biology "Space Invaders" game
+- Visual Basic calender and event scheduler
 
 
 
