@@ -1,9 +1,21 @@
 Hi, I'm Jake
 
-Have a look around my projects:
+My projects (Ordered: most > least recent):
+
+- Website & Apache server security
 - Kotlin andriod emotion and music app
 - C# Unity VR interactive museum
+- Swift iOS educational KS2 chemistry app
+- C++ traffic simulation
+- Python data visualisation
 - C# Unity escape room
+- Kotlin android educational KS2 chemistry app
+- C++ data visualisation
+- PHP, mySQL & JS messenger website
+- HTML, CSS & PHP forum website
+- Java education KS1 biology "Space Invaders" game
+
+
 
 Demos: https://www.youtube.com/@jakeknox
 
