@@ -9,7 +9,7 @@ My projects (Ordered: most > least recent):
 - C++ traffic simulation
 - Python data visualisation
 - C# Unity escape room
-- HTML, CSS, JS, PHP & mySQL land asessment service for a brownfield land development company (group project)
+- HTML, CSS, JS, PHP & mySQL form and asessment service for a brownfield land development company (group project)
 - Kotlin android educational KS2 chemistry app
 - C++ data visualisation
 - PHP, mySQL & JS messenger website
