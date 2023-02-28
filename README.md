@@ -2,6 +2,10 @@ Hi, I'm Jake
 
 My projects (Ordered: most > least recent):
 
+- An AI chatbot
+- A JS word game (It's very fun)
+- A JS cyber-pet group project
+- My personal portfolio site
 - Website & Apache server security (group project)
 - Kotlin andriod emotion and music app
 - C# Unity VR interactive museum
