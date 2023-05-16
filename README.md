@@ -35,7 +35,7 @@ From front-end development with JavaScript frameworks like React to back-end sys
 
 I'm always open to new opportunities, collaborations, and engaging discussions within the tech community. Feel free to explore my projects, get in touch, or connect with me on LinkedIn. Let's create something amazing together!
 
-Happy coding! 😄🚀
+Happy coding! 🤖 🐑
 
 
 
