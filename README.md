@@ -16,6 +16,7 @@ I have a diverse language palette, which allows me to approach projects from var
 - HTML, CSS, and PHP: I have hands-on experience in web development, utilizing HTML and CSS to create engaging user interfaces, and PHP to enhance server-side functionality.
 - Python: I have worked with Python for web app backend development and dabbled in machine learning projects. Its simplicity and vast ecosystem make it a versatile language for a wide range of applications.
 - Java and C++: These were my trusted companions during my university years, where I delved into object-oriented programming and learned the fundamentals of software development.
+- I also love Spanish! 
 
 You can also look through my GitHub repos to see what languages I've been working with most recently.
 
