@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hi! 👋
 
 I'm Jake, a passionate software developer and CompSci graduate based in Manchester. Welcome to my GitHub profile!
 
