@@ -6,6 +6,8 @@ I'm Jake, a passionate software developer and CompSci graduate based in Manchest
 
 I thrive on turning complex problems into elegant solutions through code. With a strong foundation in computer science and a curious mindset, I'm constantly exploring new technologies and learning innovative ways to build efficient and user-friendly software.
 
+Contact: https://www.linkedin.com/in/jake-knox/
+
 ### My favourite languages
 
 I have a diverse language palette, which allows me to approach projects from various angles. Here are some languages that I particularly enjoy working with:
@@ -43,4 +45,4 @@ Happy coding! 🤖 🐑
 
 <!-- Demos: https://www.youtube.com/@jakeknox -->
 
-Contact: https://www.linkedin.com/in/jake-knox/
+Contact (again): https://www.linkedin.com/in/jake-knox/
