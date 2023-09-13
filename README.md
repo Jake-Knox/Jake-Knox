@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-I'm Jake, a passionate software developer and CompSci graduate based in Manchester. Welcome to my GitHub profile!
+I'm Jake, a passionate software developer and CompSci graduate based in Bolton, Greater Manchester. Welcome to my GitHub profile!
 
 ### What I'm all about
 
-I thrive on turning complex problems into elegant solutions through code. With a strong foundation in computer science and a curious mindset, I'm constantly exploring new technologies and learning innovative ways to build efficient and user-friendly software.
+With a strong foundation in computer science and a curious mindset, I'm constantly exploring new technologies and learning innovative ways to build efficient and user-friendly software.
 
 Contact: https://www.linkedin.com/in/jake-knox/
 
