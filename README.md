@@ -2,6 +2,9 @@
 
 I'm Jake, a passionate software developer and CompSci graduate based in Bolton, Greater Manchester. Welcome to my GitHub profile!
 
+My Portfolio - https://main.drpmz394jedz3.amplifyapp.com/
+(AWS amplify deployment)
+
 ### What I'm all about
 
 With a strong foundation in computer science and a curious mindset, I'm constantly exploring new technologies and learning innovative ways to build efficient and user-friendly software.
