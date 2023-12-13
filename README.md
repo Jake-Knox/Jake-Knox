@@ -43,7 +43,7 @@ I'm always open to new opportunities, collaborations, and engaging discussions w
 
 Happy coding! 🤖 🐑
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jake-Knox&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jake-Knox&show_icons=true&locale=en&layout=wide&theme=chartreuse-dark" alt="ovi" />
 
 
 
