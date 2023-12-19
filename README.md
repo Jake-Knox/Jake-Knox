@@ -1,47 +1,36 @@
-## Hi! 👋
+# Jake Knox - Junior Developer
 
-I'm Jake, a passionate software developer and CompSci graduate based in Bolton, Greater Manchester. Welcome to my GitHub profile!
+## Introduction
+Enthusiastic junior developer with a keen interest in contributing to engaging projects. My focus lies in full-stack web development, and I am actively exploring opportunities to apply my skills and collaborate.
 
-My Portfolio - https://main.drpmz394jedz3.amplifyapp.com/
-(AWS amplify deployment)
+## Seeking Junior Role in Software/Web Development
+I'm on the lookout for a junior role in software or web development. I'm enthusiastic about the opportunity to grow and develop my skills. If you're interested in teaming up or have opportunities available, feel free to reach out via email or linkedIn. 
 
-### What I'm all about
+## Contact
+- LinkedIn: linkedin.com/in/jake-knox/
+- Email: jakeknox11@hotmail.co.uk
+- Portfolio: https://main.drpmz394jedz3.amplifyapp.com/ (AWS Amplify Deployment) 
 
-With a strong foundation in computer science and a curious mindset, I'm constantly exploring new technologies and learning innovative ways to build efficient and user-friendly software.
+## Education
+- 1st in Computer Science, University of Salford (2022)
 
-Contact: https://www.linkedin.com/in/jake-knox/
+## Current Project
+### Bookends - Full stack bookshelf curation webapp
+- Description: Brief description of the current project you are working on.
+- Technologies: Node.js, Express, MongoDB, JS(ES6), EJS, HTML5, CSS3
+- GitHub Link: https://github.com/Jake-Knox/bookshelf-app-node
 
-### My favourite languages
+## Next Project
+### React 
+- I'll be switching the majority of my dev time to react and using it for my webapps going forward - outside of smaller side projects.
+- Technologies: React, MongoDB? mySQL?, TypeScript? MERN stack?
+- GitHub Link: ...when I start the next project
 
-I have a diverse language palette, which allows me to approach projects from various angles. Here are some languages that I particularly enjoy working with:
-- C#: With a solid foundation in C#, I've worked on video games in Unity and desktop applications. 
-- JavaScript: Being well-versed in JavaScript enables me to craft interactive and dynamic web experiences, leveraging frameworks like React to build modern front-end interfaces. I'm currently working on a passion project that I've been planning for years.
-- HTML, CSS, and PHP: I have hands-on experience in web development, utilising HTML and CSS to create engaging user interfaces, and PHP to enhance server-side functionality.
-- Python: I have worked with Python for web app backend development and dabbled in machine learning projects. Its simplicity and vast ecosystem make it a versatile language for a wide range of applications.
-- Java and C++: Java was a language I spent a lot of time with at university, where I delved into object-oriented programming and learned the fundamentals of software development. I also picked up C++ to strengthen my skills.
-- Kotlin: I fell in love with Kotlin during my university studies and have since leveraged its concise syntax and powerful features to build fun Android applications. My final year project included an app which combined facial recognition with music recommendations. It was one of the most rewarding projects that I've worked on.
-- Swift: As an enthusiast of iOS development, I'm proficient in Swift and have developed sleek and user-friendly mobile apps for the Apple ecosystem.
-- I also love Spanish! 
+## Skills
+- Programming Languages: JavaScript, C#. Also studied Java, Kotlin, C++, PHP, Python.
+- Web Technologies: I really enjoy Node.js/Express based webapps. I've alsoy used Python/Flask for python library based projects. I've incorperated APIs like the Google Books API and Atlas MongoDB document databases into my web projects.
+- Version Control: I've been using GitHub for my version control for a while now
 
-You can also look through my GitHub repos to see what languages I've been working with most recently.
-
-### My journey so far
-
-I embarked on my programming journey during my studies in computer science in college, where I discovered my love for crafting clean and maintainable code. Since then, I've been honing my skills and expanding my knowledge through personal projects and collaboration with other developers.
-
-### What I bring to the table
-
-I'm not just a developer, but a problem-solver who enjoys tackling challenges head-on. I believe in the power of teamwork and effective communication, which enable me to work seamlessly in collaborative environments and deliver outstanding results.
-
-### Technologies I'm passionate about
-
-From front-end development with JavaScript frameworks like React to back-end systems powered by Python or Java, I enjoy working across the full stack. I'm also experienced with database management, version control with Git and work with various APIs.
-
-### Let's connect!
-
-I'm always open to new opportunities, collaborations, and engaging discussions within the tech community. Feel free to explore my projects, get in touch, or connect with me on LinkedIn. Let's create something amazing together!
-
-Happy coding! 🤖 🐑
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jake-Knox&show_icons=true&locale=en&layout=normal&theme=chartreuse-dark&langs_count=10" alt="ovi" />
 
