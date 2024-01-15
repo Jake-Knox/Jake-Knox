@@ -3,6 +3,9 @@
 ## Introduction
 Enthusiastic junior developer with a keen interest in contributing to engaging projects. My focus lies in full-stack web development, and I am actively exploring opportunities to apply my skills and collaborate.
 
+## Currently Obsessed With
+React Native 👨‍🍳
+
 ## Seeking Junior Role in Software/Web Development
 I'm on the lookout for a junior role in software or web development. I'm enthusiastic about the opportunity to grow and develop my skills. If you're interested in teaming up or have opportunities available, feel free to reach out via email or linkedIn. 
 
